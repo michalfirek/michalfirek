@@ -28,7 +28,7 @@ My name is Michał.
 [<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
 
 <a href="https://github.com/home-assistant" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4" alt="homeassistant" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4" alt="homeassistant" width="40" height="40"/>
 </a>
 <a href="https://pi-hole.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/pi-hole/web/refs/heads/master/img/favicons/android-chrome-192x192.png" alt="homeassistant" width="40" height="40"/>
