@@ -23,7 +23,9 @@ My name is Michał.
 
 <p align="left">
 <h3 align="center">Social Media:</h3>
-[<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
+  <a href="https://www.codewars.com/users/Binzik" target="_blank" rel="noreferrer">
+    <img src="https://www.codewars.com/users/Binzik/badges/large">
+  </a>    
 </p>
 
 
